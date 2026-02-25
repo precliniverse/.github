@@ -27,6 +27,6 @@ This ecosystem is licensed under the **GNU Affero General Public License v3.0 (A
 **Precliniverse** was founded and developed by **Benoit Petit-Demoulière**, an expert in preclinical research management. Benoit bridges the gap between life sciences and software engineering, ensuring that every brick of the ecosystem speaks the language of researchers while maintaining high technical standards.
 
 *   **Expertise**: Preclinical facility management, regulatory compliance, and digital transformation in life sciences.
-*   **ORCID**: [0000-0002-3837-7538](https://orcid.org/0000-0002-3837-7538)
+*   **ORCID**: [0000-0001-5616-7692](https://orcid.org/0000-0001-5616-7692)
 
 > *"My goal is to provide researchers with tools that are as rigorous as their protocols, ensuring that digital management is an enabler, not a burden."*
