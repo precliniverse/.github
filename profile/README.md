@@ -9,11 +9,12 @@ All code in this organization is created using advanced AI tools, under strict h
 
 Precliniverse is composed of specialized bricks that can function autonomously or as a fully governed suite:
 
-*   **[preclinilog](https://github.com/precliniverse/preclinilog)**: The **Notary & Orchestrator**. It provides the central project registry (**IPxxx**), shared CRM, and global navigation hub.
-*   **[precliniset](https://github.com/precliniverse/precliniset)**: The **Scientific Brain (LIMS)**. Handles animal group tracking, data collection, ethical-approval traceability, and molecule inventory.
-*   **[precliniquote](https://github.com/precliniverse/precliniquote)**: The **Financial Manager**. A smart quoting system and CRM tailored for preclinical service providers.
-*   **[preclinitrain](https://github.com/precliniverse/preclinitrain)**: The **Compliance Tracker**. Dedicated to managing regulatory training and staff skills.
-*   **[precliniverse-wizard](https://github.com/precliniverse/precliniverse-wizard)**: The **Infrastructure Architect**. An ephemeral tool to deploy and maintain the entire stack with security-first defaults (CSP, SSO).
+*   **[preclinilog]**: The **Notary & Orchestrator**. It provides the central project registry (**IPxxx**), shared CRM, and global navigation hub.
+*   **[precliniset]**: The **Scientific Brain (LIMS)**. Handles animal group tracking, data collection, ethical-approval traceability, and molecule inventory.
+*   **[precliniquote]**: The **Financial Manager**. A smart quoting system and CRM tailored for preclinical service providers.
+*   **[preclinitrain]**: The **Compliance Tracker**. Dedicated to managing regulatory training and staff skills.
+
+These bricks will be accessible through the PrecliniLab portal
 
 ## 🛡️ License & Open Source
 This ecosystem is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**.
